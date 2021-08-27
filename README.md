@@ -3,7 +3,7 @@ A simple way to give a random way to greet people.
 
 ## Building from source
 1. Install [esbuild](https://esbuild.github.io/)
-2. Build and run the bundler (`esbuild app.jsx --bundle --minify --sourcemap --outfile saluto.min.js`)
+2. Build and run the bundler (`esbuild salute.js --bundle --minify --sourcemap --outfile saluto.min.js`)
 
 or:
 
