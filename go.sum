@@ -28,6 +28,8 @@ github.com/evanw/esbuild v0.13.12 h1:q8fmywXq1vIKlbA6XSxdU9LCLzMdrsD3wfM2gz2d8JU
 github.com/evanw/esbuild v0.13.12/go.mod h1:GG+zjdi59yh3ehDn4ZWfPcATxjPDUH53iU4ZJbp7dkY=
 github.com/evanw/esbuild v0.13.13 h1:KfO9yqcgsiRIPj8j0pgzxW28xFz2Jjg3RhNYOmqwclk=
 github.com/evanw/esbuild v0.13.13/go.mod h1:GG+zjdi59yh3ehDn4ZWfPcATxjPDUH53iU4ZJbp7dkY=
+github.com/evanw/esbuild v0.13.14 h1:EBIPb0cjOxIIxnX4ToxL3g0UUlivxr5KxJ4XYgAeDrU=
+github.com/evanw/esbuild v0.13.14/go.mod h1:GG+zjdi59yh3ehDn4ZWfPcATxjPDUH53iU4ZJbp7dkY=
 golang.org/x/sys v0.0.0-20200501145240-bc7a7d42d5c3 h1:5B6i6EAiSYyejWfvc5Rc9BbI3rzIsrrXfAQBWnYfn+w=
 golang.org/x/sys v0.0.0-20200501145240-bc7a7d42d5c3/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210908233432-aa78b53d3365 h1:6wSTsvPddg9gc/mVEEyk9oOAoxn+bT4Z9q1zx+4RwA4=
